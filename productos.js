@@ -2,7 +2,7 @@
 const products = [
     {
         name: "Ramo Girasol Abeja",
-        description: "Pack de 2 girasoles, una abeja, con envoltura de papel coreano y lazo de cinta satinada.",
+        description: "Pack de 2 girasoles 1 girasol grande, 1 girasol mediano, 1 abeja, con envoltura de papel coreano y lazo de cinta satinada.",
         image: "./img/ramo1.jpg",
     },
     {
@@ -12,11 +12,11 @@ const products = [
     },
     {
         name: "Pack de 2 Ramos",
-        description: "Contiene 1 ramo de girasol abeja más 1 ramo de rosas matizadas abeja.",
+        description: "Contiene 1 ramo de 2 girasol, 1 abeja más 1 ramo de  2 rosas matizadas, 1 abeja.",
         image: "./img/ramo3.jpg",
     },
     {
-        name: "Ramo de Tulipanes",
+        name: "Ramo de Tulipanes - abeja - animalito",
         description: "Pack de 6 tulipanes, 1 cabeza animalito y una abeja, con envoltura de papel coreano y lazo de cinta satinada.",
         image: "./img/ramo4.jpg",
     },
@@ -26,7 +26,7 @@ const products = [
         image: "./img/ramo5.jpg",
     },
     {
-        name: "Ramo de Tulipanes",
+        name: "Ramo de Tulipanes - abeja - animalito",
         description: "Pack de 6 tulipanes, 1 cabeza animalito y una abeja, con envoltura de papel coreano y lazo de cinta satinada.",
         image: "./img/ramo6.jpg",
     },
@@ -51,53 +51,53 @@ const products = [
         image: "./img/ramo10.jpg",
     },
     {
-        name: "Cabeza Animalito",
-        description: "1 cabeza de animalito a escoger",
+        name: "Pack de Abejas",
+        description: "Pack de 4 abejas o animalito a escoger para decoracion de ramo",
         image: "./img/ramo11.jpg",
     },
     {
-        name: "Pack de Abejas",
-        description: "Pack de 4 abejas o animalito a escoger",
+        name: "Pack Rosa Matizada - Abeja - Campanita",
+        description: "Pack de 1 rosa matizada, 1 abeja y un ramo de campanita, envuelto con papel coreano y lazo de cinta satinada. ",
         image: "./img/ramo12.jpg",
     },
     {
-        name: "Pack Rosa Matizada Abeja y Campanita",
-        description: "Pack de 1 rosa matizada, 1 abeja y un ramo de campanita, envuelto con papel coreano y lazo de cinta satinada. ",
+        name: "Ramo Tulipan Abeja",
+        description: "Pack de 1 tulipan, 1 abeja, envuelto con papel coreano y lazo de cinta satinada.",
         image: "./img/ramo13.jpg",
     },
     {
-        name: "Abeja",
-        description: "Una abeja tejida con amor",
+        name: "Ramo Rosas Rojas - Helecho - Abeja",
+        description: "Pack 2 rosas, 1 helecho, 1 abeja, envuelto con papel coreano y lazo de cinta satinada.",
         image: "./img/ramo14.jpg",
     },
     {
-        name: "Ramo Tulipan Abeja",
-        description: "Pack de 1 tulipan, 1 abeja, envuelto con papel coreano y lazo de cinta satinada. ",
+        name: "Ramo Tulipan Animalito",
+        description: "Pack de 1 tulipan, 1 animalito a escoger, envuelto con papel coreano y lazo de cinta satinada. ",
         image: "./img/ramo15.jpg",
     },
     {
-        name: "Ramo Rosas - Helecho - Abeja",
-        description: "Pack 2 rosas, 1 helecho, 1 abeja, envuelto con papel coreano y lazo de cinta satinada. ",
+        name: "Ramo Rosa Matizada - Helecho",
+        description: "Pack 1 rosa, 1 helecho, envuelto con papel coreano y lazo de cinta satinada. ",
         image: "./img/ramo16.jpg",
     },
     {
-        name: "Ramo de Tulipan Animalito",
-        description: "Pack de 1 tulipan mas una cabeza de animalito (a escoger), envuelto con papel coreano y lazo de cinta satinada.",
+        name: "Ramo Rosa Rojas - Helecho - Abeja",
+        description: "Pack de 2 rosas rojas, 1 helecho, 1 abeja, envuelto con papel coreano y lazo de cinta satinada.",
         image: "./img/ramo17.jpg",
     },
     {
-        name: "Ramo Rosa Matizada - Helecho",
-        description: "Pack de 1 rosa matizada rosada, 1 helecho, envuelto con papel coreano y lazo de cinta satinada. ",
+        name: "Ramo Rosa Matizada Campanita",
+        description: "Pack de 1 rosa Matizada, 1 Ramo campanita, envuelto con papel coreano y lazo de cinta satinada. ",
         image: "./img/ramo18.jpg",
     },
     {
-        name: "Ramo Rosas - Helecho - Abeja",
-        description: "Pack 2 rosas, 1 helecho, 1 abeja, envuelto con papel coreano y lazo de cinta satinada. ",
+        name: "Abeja",
+        description: "Pack de 1 abeja para decoracion de ramo.",
         image: "./img/ramo19.jpg",
     },
     {
-        name: "Ramo Rosa Campanita",
-        description: "Pack de 1 rosa matizada, 1 ramo de campanita,envuelto con papel coreano y lazo de cinta satinada. ",
+        name: "Animalito",
+        description: "Pack 1 Animalito a escoger para decoracion de ramo.",
         image: "./img/ramo20.jpg",
     },
     // Agregar más productos aquí
